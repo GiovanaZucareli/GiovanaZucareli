@@ -1,8 +1,8 @@
 ## Hey, Giovana Zucareli aqui!!
 
 
-- 🔭 Estudante de programação, com foco no Front-end
-- ⚡ In love com a tecnologia e a matemática
+- ✏️ Estudante de programação, com foco no Front-end
+- ❤️ In love com a tecnologia e a matemática
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanazucareli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
