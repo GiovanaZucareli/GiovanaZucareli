@@ -1,34 +1,24 @@
-## Hey, Giovana Zucareli aqui!!
+<p>
 
-
-- ✏️ Estudante de programação, especificamente na área de Engenharia de Software
-- ❤️ Apaixonada pela tecnologia e a matemática
+Hi 👋, I am **Giovana**, an enthusiastic and ambitious **developer** passionate about technology, programming and databases. I’m currently studying **Databases** and **Software Engineering**, combining theory and practice to build modern and scalable systems. I have experience in **web development** and **UX Design**, and I love creating impactful solutions. ✨  
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanazucareli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanazucareli&layout=compact&langs_count=7&theme=radical"/>
+<details>
+  <summary>🧑 More about me</summary>
+
+- 🌱 I’m learning more about **software engineering and databases**  
+- 🤝 I’m looking for opportunities to **contribute to open source**  
+- 💬 Ask me about **programming, UX, and system design**  
+- 📫 Reach me at **giovanazucareli@gmail.com**  
+
+</details>
 </div>
 
-##
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-</div>
+## 🔥 Github Stats
+
+<a href="https://github.com/giovanazucareli"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=giovanazucareli&theme=radical&title_color=ff3068"></a>  
+<a href="https://github.com/giovanazucareli"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=giovanazucareli&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>  
 
 
-##
-
-
-<div> 
-  <a href = "mailto:giovanazucareli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovana-zucareli-1aa205202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
