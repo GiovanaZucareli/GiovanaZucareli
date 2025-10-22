@@ -1,6 +1,6 @@
 <p>
 
-Hi 👋, I am **Giovana**, an enthusiastic and ambitious **developer** passionate about technology, programming and databases. I’m currently studying **Databases** and **Software Engineering**, combining theory and practice to build modern and scalable systems. I have experience in **web development** and **UX Design**, and I love creating impactful solutions. ✨  
+Hi 👋, I'm **Giovana**, an enthusiastic and ambitious **developer** passionate about technology, programming and databases. I’m currently studying **Databases** and **Software Engineering**, combining theory and practice to build modern and scalable systems. I have experience in **web development** and **UX Design**, and I love creating impactful solutions. ✨  
 
 <div>
 <details>
